@@ -1,4 +1,5 @@
 # unRAID Templates Repository
+Modified by [wildfirebill](https://github.com/wildfirebill)
 
 ![IBRACORP Logo](https://raw.githubusercontent.com/ibracorp/unraid-templates/master/V3Icon.png)
 
